@@ -1,0 +1,15 @@
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/bin/Debug/net7.0/30gennaioEs
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/bin/Debug/net7.0/30gennaioEs.deps.json
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/bin/Debug/net7.0/30gennaioEs.runtimeconfig.json
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/bin/Debug/net7.0/30gennaioEs.dll
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/bin/Debug/net7.0/30gennaioEs.pdb
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.csproj.AssemblyReference.cache
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.AssemblyInfoInputs.cache
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.AssemblyInfo.cs
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.csproj.CoreCompileInputs.cache
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.dll
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/refint/30gennaioEs.dll
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.pdb
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/30gennaioEs.genruntimeconfig.cache
+/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/Debug/net7.0/ref/30gennaioEs.dll
