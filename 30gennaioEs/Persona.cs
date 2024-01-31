@@ -25,7 +25,7 @@ namespace _30gennaioEs
 
         public string getDettagli()
         {
-            return (nome +" "+ cognome+ " ha "+età+" anni");
+            return (nome +" "+ cognome+ " ha "+età+" anni.");
         }
     }
 }

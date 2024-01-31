@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/30gennaioEs.csproj",
+      "projectUniqueName": "/Users/ebby/Desktop/Corso-local/Backend/30gennaioEs/30gennaioEs/30gennaioEs/30gennaioEs.csproj",
       "projectName": "30gennaioEs",
-      "projectPath": "/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/30gennaioEs.csproj",
+      "projectPath": "/Users/ebby/Desktop/Corso-local/Backend/30gennaioEs/30gennaioEs/30gennaioEs/30gennaioEs.csproj",
       "packagesPath": "/Users/ebby/.nuget/packages/",
-      "outputPath": "/Users/ebby/Desktop/Corso-local/Backend/30 gennaio/30gennaioEs/30gennaioEs/obj/",
+      "outputPath": "/Users/ebby/Desktop/Corso-local/Backend/30gennaioEs/30gennaioEs/30gennaioEs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ebby/.nuget/NuGet/NuGet.Config"
